@@ -3,5 +3,8 @@ This project aims to compress and decompress files with using huffman code algor
 
 DECODED FORM:
 ![evsBinary](EncodeViewStation1.png)
-ENCODED FORM:
+
+  ENCODED FORM:
+
+
 ![evs1](EncodeViewStationBinary1.png)
